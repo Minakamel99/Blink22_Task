@@ -18,5 +18,4 @@ Validate Successful Submission
 
 🧪 How to Run
 
-Clone the repo:
---> git clone https://github.com/Minakamel99/Blink22_Task.git
+Clone the repo: git clone --> https://github.com/Minakamel99/Blink22_Task.git
