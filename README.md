@@ -13,6 +13,9 @@ Enters invalid email format and checks for validation error.
 Validate Successful Submission
 
 Submits the form with valid name and email, and extracts the thank-you message.
+
+
 🧪 How to Run
+
 Clone the repo:
-git clone https://github.com/Minakamel99/blink22_Task-ui-automation.git
+git clone https://github.com/Minakamel99/Blink22_Task.git
